@@ -1,2 +1,5 @@
 # hello-world
-Just another repository (to show I can make one)
+
+Hiya!
+
+I'm a fun-loving guy who likes to code!
